@@ -818,14 +818,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📚 Additional Resources
-
-- [Methodology Documentation](METHODOLOGY.md) - Technical details
-- [API Reference](docs/API.md) - Function documentation
-- [Tutorial Videos](docs/TUTORIALS.md) - Step-by-step guides
-- [Dataset Guide](docs/DATASETS.md) - Dataset preparation
-- [Performance Tuning](docs/PERFORMANCE.md) - Optimization tips
-
----
-
 **Made with ❤️ for a cleaner planet 🌍**
